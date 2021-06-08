@@ -1,0 +1,31 @@
+baseURL: https://investing-help.com/
+languageCode: en-us
+footnoteReturnLinkContents: ↩
+theme: ananke
+#theme: omega-hugo
+title: Connor's Investing Help
+copyright: Hangry
+menus:
+#   main:
+#   - name: Store
+#     url: https://aztroop201.square.site/
+#   - name: Contact
+#     url: mailto:info@aztroop201.org
+params:
+  AuthorName: Connor Bridges
+  GitHubUser: KindaHangry
+  # ListOfFoo:
+  # - foo1
+  # - foo2
+  # SidebarRecentLimit: 5
+  # Subtitle: Troop 201 Subtitle, where does this show
+  # custom_css:
+  # - css/custom.css
+  # favicon: favicon/favicon.ico
+  # site_logo: images/logo.png
+  # # permalinks:
+  # #   posts: /:year/:month/:title/
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
