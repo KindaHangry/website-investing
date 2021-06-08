@@ -1,8 +1,6 @@
 ---
 omit_header_text: true
-description: Descirption goiaasdfasdf
+description: Anything you want
 ---
 
-# Hi
 
-This is a page
