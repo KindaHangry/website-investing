@@ -1,7 +1,7 @@
 #!/bin/bash
 # Run Hugo and deploy public to gh-pages branch
 
-cd home
+cd site
 rm -rf public
 
 #HUGO_ENV sets up anake theme to allow indexing
