@@ -3,8 +3,9 @@ languageCode: en-us
 footnoteReturnLinkContents: ↩
 theme: ananke
 #theme: omega-hugo
-title: Connor's Investing Help
+title: Connor's Investing Tips
 copyright: Hangry
+googleAnalytics: 275378534
 menus:
 #   main:
 #   - name: Store
