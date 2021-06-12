@@ -11,14 +11,17 @@ Webull takes the cake in my opinion as a stock trading platform. It has 0 fees, 
 
 
 ## 2) TD Ameritrade
+
 For similar reasons as Webull, TD Ameritrade takes the number 2 spot. The key difference between those two is TD Ameritrade has a fantastic charting software called Thinkorswim. This charting software is completely free and is very useful. TD Ameritrade also includes 0 fee trading, as well as after-hours trading. Overall, another great trading platform.
 
 ## 3) Etrade
+
 Etrade is another great stock trading platform, that I would especially recommend to any minors looking to get into investing/trading. The reason for this is they are one of the few platforms that offer custodial accounts, that allow minors to create their own accounts. These accounts are tax free up to $2000 in profit every year. This platform is quite similar to TD Ameritrade, although it lacks it's own charting software. Overall, a great platform, and especially so for minors.
 
 ## 4) Fidelity
+
 Fidelity is another overall good platform. It offers similar qualities as TD Ameritrade, and is a simple and well rounded platform. It is a good place for both beginners and veterans alike, which is why I gave it this rating. This is definitely a platform that I'd recommend.
 
-
 ## 5) Robinhood
+
 Robinhood has had a history of fishy dealings that have come at the cost of the consumer, which is proof of why you should always have at least two brokers. Even with these past issues, I still believe it is a good platform, and it has driven the zero commission trading across all of these platforms. Robinhood is the most simple to use, and it's option trading is just as simple. This is a great gateway platform to new investors looking to make some money, and it's digestible interface is a big factor to it's  success. Overall, while Robinhood has had it's fair share of controversy, I still regard it as a good platform to use.
