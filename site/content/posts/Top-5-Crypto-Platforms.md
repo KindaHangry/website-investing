@@ -18,13 +18,17 @@ Coinbase is the probably the most popular crypto currency exchange, at least her
 
 [Sign up for Coinbase](https://www.coinbase.com/join/bridge_p9a?src=android-link)
 
-## 3) Gate.io
+## 3) eToro
 
-Gate.io is a very good exchange and is a veteran in the crypto currency space. They have been around for a while now, with their vast amount of choices when it comes to coins, good security, and low fees. This exchange is really great all around, except for one problem. The sign-up security check is quite extensive, and asks for the same thing as any other exchange (driver's license, ssn, etc...) but also your work and job information. Other than that, it is a fantastic exchange that is good for anyone once you get the hang of it, new or experienced.
+eToro is a very well rounded exchange, and a fantastic option for any type of cryptocurrency investor/trader. Their fees are competitive compared to many exchanges, they have a great selection of coins to choose from, and they also have stocks coming soon. Overall a great exchange, especially for newer investors that want to have a lot of options in a single platform. If you want to sign up, I have attatched a link to their main website.
 
-## 4) Crypto.com
+[Sign up for eToro](https://www.tkqlhce.com/click-100428808-14080922)
 
-Crypto.com is a relatively new exchange, and is quickly gaining users with its huge increase in marketing. This is also a great exchange I'd recommend, for it's decently large variety of coins, good safety, and debit card options. Crypto.com is similar to Coinbase Pro. They have a somewhat comparable variety of coins, similar fees, and similar levels of security. Crypto.com also allows you to get a debit card, once you have a certain amount of money on the exchange. The great thing about this card is that it gives you cashback on your purchases. What makes this card better than most other cards is it's cashback return and it allows you to pay with your crypto. Overall, another great exchange that I'd definitely recommend.
+## 4) Coinrule
+
+Coinrile is a relatively new and less known exchange, and is quickly gaining users with its huge increase in marketing. Coinrule is unlike most other platforms on this list, in the fact that it helps trade for you. This platform is for you if you want high returns, but don't neccesarily have the time to research every new coin. This way, you can have the best of both worlds. If you want to sign up for them, I have attatched a link that will bring you to their signup page.
+
+[Sign up for Coinrule](https://www.jdoqocy.com/click-100428808-14320504)
 
 ## 5) Kucoin
 
@@ -38,4 +42,5 @@ Gemini - great exchange with a very high level of security, not many different c
 
 Robinhood - "no fees", but doesn't give you access to withdraw your crypto
 
-Pancake Swap - decentralized, making it the safest possible way to buy crypto, low fees, wide variety of coins, difficult to use for beginners
+Pancake Swap - decentralized, making it the safest possible way to buy crypto, low fees, wide variety of coins, difficult to use for beginners. I have a video on how to use Pancake Swap here.
+ [How To Use Pancake Swap](https://youtu.be/de0G6Zq-CCY)
