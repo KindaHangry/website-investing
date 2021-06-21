@@ -1,22 +1,23 @@
 ---
 title: "What is Polkadot?"
-date: 2021-06-06T19:47:32-07:00
-draft: true
+date: 2021-06-20T19:47:32-12:00
+draft: false
 ---
 
 
 ## What is Polkadot?
 
-Vechain is a supply management coin that's used by mostly businesses to revolutionize their company. Vechain is used for many different purposes, from checking if a pair of shoes aren't fake, to the temperature of the truck your steak was transferred in. The use case for Vechain is huge, and they do have proof that this product is functional. Vechain has dozens of partnerships with some big name companies. These partnerships include BMW, H&M, the Chinese government, and dozens more. While we don't know the extent of these partnerships, these companies/country's public acceptance is proof enough of the power of this technology. 
+Polkadot is a smart contract platform that is built to be interoperable. In the far future, I think similar to the current technology giants, there won't be a single winner. This is why interoperability is so important. Blockchains must be able to work with each other, because without that ability, they will be left in the past. Polkadot already has smart contracts enabled, and is already rolling out it's parachains. Polkadot also has a fantastic ecosystem that is still growing. In terms of fundamentals, Polkadot is one of the leading smart contract blockchains that may be one of the leaders in the space even in the coming years.
 
 ## What Problem Is It Solving?
 
-The problem Vechain is solving is a big one, being supply chain management. Just one example of this is the huge fake wine problem. The wine fraud market is estimated to be around a 3 billion dollar industry. Vechain could easily solve this problem, by allowing the manufacturer, the store, and the consumer to all have knowledge of where this wine came from. Even this is just one small area where Vechain could truly shine. The question that a lot of people bring up is, "If this technology is so great, why doesn't every big business use it?". The answer to this question is how new this technology is. Even with how new it is, big companies are already beginning to use Vechain. As trust builds and more and more companies begin to partner with Vechain, bigger companies will trust it enough to use it for themselves. At that point, every big company that needs it will be forced into using it, for if they don't they will fall behind their competition.
+Similar to other smart contract platforms, Polkadot is meant to increase the capabilities of blockchains. These smart contract platforms are some of the best projects to invest in, because this is such a vital space to the future of blockchains. As I stated earlier, I doubt there will be a single winner. Instead, there will be a variety of tokens and platforms used for different purposes. I believe Polkadot will be one of those platforms, leading the smart contract space. Picking a winner right now is like trying to pick one Amazon or Google from the hundreds of companies that went public during the .com bubble. While it is by no means guaranteed, Polkadot is currently one of the heads of the smart contract space, and has a good chance of retaining that spot.
 
 ## The Development Team
 
-Vechain is led by it's two co-founders, Sunny Lu and Jay Zhang. Sunny Lu has extensive experience in this space. He has over 15 years of IT experience in Fortune 500 companies, and he was the former CIO of Louis Vuitton. Both Sunny and Jay created Vechain back in 2015, and since then it has blossomed into what is is today. The rest of the team are well trained developers that have been improving Vechain for years. Overall, the team looks capable of growing Vechain into what we all hope it will become.
+Similar to Cardano, Polkadot is also led by a co-founder of Ethereum. Dr. Gavin Wood is a co-founder of Polkadot, and was around Ethereum since the early days. Wood left Ethereum to attempt to build his own unique smart contract blockchain, and that's exactly what he did. Wood alongside Robert Habermeier and Peter Czaban created Polkadot, and ever since then it has blossomed into what it is today. The rest of the team consists of similar minded people that work to improve Polkadot. This is a great team with a huge amount of experience in the space.
+
 
 ## Upcoming Events and News
 
-Vechain doesn't really have many upgrades left, as it's technology is already in great condition. The big events that Vechain still has are it's partnership announcements. Just recently, there were rumours of a possible Salesforce partnership, which still hasn't been confirmed. Vechain does already have some big partnerships, that will help other companies trust Vechain, but these are baby steps compared to what may come. Overall, Vechain is a very promising project that could grow into something much bigger than it currently is.
+Polkadot has it's big parachain auctions coming up later this year, which will allow projects to build upon the Polkadot platform. The best way to think of parachains are branches from a tree. These branches are built off of Polkadot, and they are what different projects use to build their own tokens. These parachain auctions will bring more projects to the Polkadot space, further increasing it's ecosystem. This is both a huge price catalyst as well as a big moment for Polkadot. If these projects really like building on Polkadot, this will open the floodgates to all sorts of others.
