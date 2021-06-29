@@ -1,1 +1,3 @@
 site/themes/*
+.venv/*
+site/public/*
