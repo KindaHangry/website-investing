@@ -9,7 +9,9 @@ draft: false
 
 PancakeSwap is a DeFi token that is used to decentralize swapping coins. PancakeSwap is built and is the biggest DEX (Decentralized Exchange) on the Binance Smart Chain. Pancake Swap works by using Binance Smart Chain coins in your cryptocurrency wallet, and swaps that into the chosen token. You can only swap BSC tokens (Binance Smart Chain) into other tokens on the BSC. You can also stake your Pancake Swap tokens for around 120% APY. You can use any wallet, although in my opinion Trust Wallet is the easiest. Attached is a video I made on how to connect your Trust Wallet to Pancake Swap. 
 
-[How to Connect Your Trust Wallet to PancakeSwap](https://youtu.be/de0G6Zq-CCY)
+### How to Connect Your Trust Wallet to PancakeSwap
+
+{{< youtube de0G6Zq-CCY >}}
 
 ## What Problem Is It Solving?
 
