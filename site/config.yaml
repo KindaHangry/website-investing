@@ -20,7 +20,7 @@ params:
   # custom_css:
   # - css/custom.css
   # favicon: favicon/favicon.ico
-  site_logo: /images/logo.png
+  site_logo: /images/logo_3.png
 markup:
   goldmark:
     renderer:
