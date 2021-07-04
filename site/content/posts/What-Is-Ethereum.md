@@ -2,8 +2,8 @@
 title: "What is Ethereum?"
 date: 2021-07-01T17:47:32-07:00
 draft: false
+#featured_image: '/images/feature_image.png'
 ---
-
 
 ## What is Ethereum?
 
@@ -19,4 +19,4 @@ When Ethereum was first created, it was designed by a few key members. These mem
 
 ## Upcoming Events and News
 
-Ethereum has a couple of major upcoming upgrades that are sure to bring a positive impact upon its blockchain. One of these upgrades is the London Hard Fork (EIP 1159), which is supposed to be implemented sometime in July or August. The main change with EIP 1159 is Ethereum will become a deflationary coin. To put it in simpler terms, Ethereum fees will be split into two. One of these fees will be burned, while the other fee will go to the miners. The problem with this is the miners will lose out on that fee that will be burned, which results in a large dip in the money the miners are making. In response to this, the miners planned a strike against this upgrade but failed. As Ethreum becomes a deflationary coin, supply will gradually lower, which is very bullish for its price. Another big upgrade planned for Ethereum will be occurring within the next 12-18 months. This upgrade will convert Ethereum from PoW to PoS. Coins following the PoW consensus model have been getting a lot of negative press, due to the environmental impact and the large amount of energy that is consumed to mine these coins. PoS is an overall better option for the consensus model of Ethreum. PoS will help with scaling Ethreum, decrease gas fees, and be better for the environment. More updates on this upgrade will be presented as the upgrade date approaches.
+Ethereum has a couple of major upcoming upgrades that are sure to bring a positive impact upon its blockchain. One of these upgrades is the London Hard Fork (EIP 1159), which is supposed to be implemented sometime in July or August. The main change with EIP 1159 is Ethereum will become a deflationary coin. To put it in simpler terms, Ethereum fees will be split into two. One of these fees will be burned, while the other fee will go to the miners. The problem with this is the miners will lose out on that fee that will be burned, which results in a large dip in the money the miners are making. In response to this, the miners planned a strike against this upgrade but failed. As Ethereum becomes a deflationary coin, supply will gradually lower, which is very bullish for its price. Another big upgrade planned for Ethereum will be occurring within the next 12-18 months. This upgrade will convert Ethereum from PoW to PoS. Coins following the PoW consensus model have been getting a lot of negative press, due to the environmental impact and the large amount of energy that is consumed to mine these coins. PoS is an overall better option for the consensus model of Ethereum. PoS will help with scaling Ethereum, decrease gas fees, and be better for the environment. More updates on this upgrade will be presented as the upgrade date approaches.
