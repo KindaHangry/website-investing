@@ -1,5 +1,5 @@
 ---
-title: "What is Cardano?"
+title: "What is Cardano (ADA)?"
 date: 2021-06-16T19:47:32-07:00
 draft: false
 ---

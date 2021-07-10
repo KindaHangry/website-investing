@@ -1,5 +1,5 @@
 ---
-title: "What is PancakeSwap?"
+title: "What is PancakeSwap (CAKE)?"
 date: 2021-06-28T12:47:32-07:00
 draft: false
 ---

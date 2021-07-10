@@ -1,5 +1,5 @@
 ---
-title: "What is Polkadot?"
+title: "What is Polkadot (DOT)?"
 date: 2021-06-20T19:47:32-12:00
 draft: false
 ---

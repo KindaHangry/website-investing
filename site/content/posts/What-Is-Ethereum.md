@@ -1,5 +1,5 @@
 ---
-title: "What is Ethereum?"
+title: "What is Ethereum (ETH)?"
 date: 2021-07-01T17:47:32-07:00
 draft: false
 #featured_image: '/images/feature_image.png'

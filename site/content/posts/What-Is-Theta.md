@@ -1,5 +1,5 @@
 ---
-title: "What is Theta?"
+title: "What is Theta (THETA)?"
 date: 2021-06-22T19:47:32-07:00
 draft: false
 ---
