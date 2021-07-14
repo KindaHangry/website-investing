@@ -1,6 +1,7 @@
 ---
 title: "What is Dogecoin (DOGE)?"
 date: 2021-07-09T16:24:32-07:00
+advertise: false
 draft: false
 ---
 
