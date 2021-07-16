@@ -1,6 +1,7 @@
 ---
 title: "What is a Smart Contract?"
 date: 2021-07-04T12:56:32-07:00
+advertise: true
 draft: false
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "What is Polygon (MATIC)?"
 date: 2021-07-06T15:18:32-07:00
+advertise: true
 draft: false
 #featured_image: '/images/feature_image.png'
 ---

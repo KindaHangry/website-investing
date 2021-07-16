@@ -1,6 +1,7 @@
 ---
 title: "What is Theta (THETA)?"
 date: 2021-06-22T19:47:32-07:00
+advertise: true
 draft: false
 ---
 

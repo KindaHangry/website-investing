@@ -1,6 +1,7 @@
 ---
 title: "What is Vechain (VET)?"
 date: 2021-06-18T19:47:32-07:00
+advertise: true
 draft: false
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Top 5 Crypto Exchanges 2021"
 date: 2021-06-06T19:47:32-07:00
+advertise: true
 draft: false
 ---
 
