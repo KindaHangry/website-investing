@@ -9,7 +9,9 @@
   <div class="class=flex-l flex-wrap justify-between mw8 center ph3">
 
     {{ if .Params.advertise }}
-      {{ partial "adinsert.html" . }}
+    <div class="fr" >
+        {{ partial "adinsert.html" . }}
+    </div> 
     {{ end }}
 
     <article>
