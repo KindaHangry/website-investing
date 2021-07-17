@@ -1,13 +1,13 @@
 ---
 title: "What is Litecoin?"
-date: 2021-06-06T19:47:32-07:00
-draft: true
+date: 2021-07-17T01:08:32-07:00
+draft: false
 ---
 
 
 ## What is Litecoin?
 
-Litecoin is widely known as the silver to Bitcoin's gold. It is a lighter version of Bitcoin, meaning that transactions are a faster and cheaper. Similar to Bitcoin, it follows a Proof of Work (PoW) consensus model. This means that miners are used to mine and secure the Litecoin blockchain. It is a veteran in the cryptocurrency space and was based off of Bitcoin. The goal of Litecoin is to become the real-world currency that is used to send and buy things.
+Litecoin is widely known as the silver to Bitcoin's gold. It is a lighter version of Bitcoin, meaning that transactions are faster and cheaper. Similar to Bitcoin, it follows a Proof of Work (PoW) consensus model. This means that miners are used to mine and secure the Litecoin blockchain. It is a veteran in the cryptocurrency space and was based on Bitcoin. The goal of Litecoin is to become the real-world currency that is used to send and buy things.
 
 ## What Problem Is It Solving?
 
@@ -19,8 +19,8 @@ Litecoin was created by Charlie Lee, who has been in the crypto space for a very
 
 ## Upcoming Events and News
 
-Litecoin is a finished project and therefore doesn't have any confirmed future upgrades. Similar to Bitcoin, there will be a Litecoin halving in 2023. A halving means that the rewards miners get for mining are cut in half. This cuts the incoming supply in half, which creates a upwards movement in price. The Bitcoin halving is known to begin the cryptocurrency bull run, so when the Litecoin halving occurs there is sure to be big price movement.
+Litecoin is a finished project and therefore doesn't have any confirmed future upgrades. Similar to Bitcoin, there will be a Litecoin halving in 2023. A halving means that the rewards miners get for mining are cut in half. This cuts the incoming supply in half, which creates an upwards movement in price. The Bitcoin halving is known to begin the cryptocurrency bull run, so when the Litecoin halving occurs there is sure to be big price movement.
 
 ## Final Thoughts
 
-Litecoin does have good fundamentals, with it being a finished project that is being used for it's purpose on all major payment services, such as Cash App, Paypal, Venmo, and many more. While it does seem like the silver to Bitcoin's gold, there are definetly projects with more upside then Litecoin. There are also other coins that are better at being currencies than Litecoin. For these reasons, I don't plan on owning any Litecoin, although I do see it being here for the long term.
+Litecoin does have good fundamentals, with it being a finished project that is being used for its purpose on all major payment services, such as Cash App, Paypal, Venmo, and many more. While it does seem like the silver to Bitcoin's gold, there are projects with more upside than Litecoin. Also, other coins are better at being currencies than Litecoin. For these reasons, I don't plan on owning any Litecoin, although I do see it being here for the long term.
