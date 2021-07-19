@@ -17,8 +17,8 @@ params:
   SidebarRecentLimit: 25
   permalinks:
     posts: /:year/:month/:title/
-  # custom_css:
-  # - css/custom.css
+  custom_css:
+    - css/site.css
   # favicon: favicon/favicon.ico
   site_logo: /images/logo_3.png
   recent_posts_number: 30
