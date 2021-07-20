@@ -2,6 +2,8 @@
 title: "What is Litecoin?"
 date: 2021-07-17T01:08:32-07:00
 draft: false
+categories:
+  - "Crypto"
 ---
 
 

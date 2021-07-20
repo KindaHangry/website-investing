@@ -1,28 +1,83 @@
-baseURL: https://investing-help.com/
-languageCode: en-us
-footnoteReturnLinkContents: ↩
-theme: ananke
+baseurl: https://investing-help.com/
 title: Connor's Investing Research
-copyright: 
-googleAnalytics: UA-199234456-1
-menus:
-  main:
-  - name: Homepage
-    url: "/"
-  - name: Posts
-    url: "/posts/"
-params:
-  AuthorName: Connor Bridges
-  GitHubUser: KindaHangry
-  SidebarRecentLimit: 25
-  permalinks:
-    posts: /:year/:month/:title/
-  custom_css:
-    - css/site.css
-  # favicon: favicon/favicon.ico
-  site_logo: /images/logo_3.png
-  recent_posts_number: 30
-markup:
-  goldmark:
-    renderer:
-      unsafe: true
+languageCode: en-us
+paginate: '100'
+theme: mainroad
+#disqusShortname: ''
+googleAnalytics: 'UA-199234456-1'
+Author:
+  name: Connor Bridges
+  #bio: >-
+    #John Doe's true identity is unknown. Maybe he is a successful blogger or
+    #writer. Nobody knows it.
+  avatar: img/avatar.png
+Params:
+  subtitle: 'Not Financial Advice'
+  #description: John Doe's Personal blog about everything
+  copyright: Connor's Investing Research
+  #opengraph: true
+  #schema: true
+  #twitter_cards: true
+  #readmore: false
+  authorbox: true
+  toc: true
+  pager: true
+  # post_meta:
+  #   - author
+  #   - date
+  #   - categories
+  #   - translations
+  mainSections:
+    - posts
+  dateformat: '2006-01-02'
+  #mathjax: true
+  #mathjaxPath: 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js'
+  #mathjaxConfig: TeX-AMS-MML_HTMLorMML
+  googleFontsLink: 'https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700'
+  highlightColor: ''
+  customCSS:
+    - css/custom.css
+  customJS:
+    - js/custom.js
+  style:
+    vars:
+      highlightColor: '#055817'
+      fontFamilyPrimary: '''Open Sans'', Helvetica, Arial, sans-serif'
+      fontFamilySecondary: >-
+        SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier
+        New', monospace
+  logo:
+    image: images/logo_3.png
+    title: "Connor's Investing Research"
+    subtitle: Just another site
+  sidebar:
+    home: right
+    list: right
+    single: false
+    widgets:
+      - search
+      - recent
+      - categories
+      #- taglist
+      #- social
+      #- languages
+  widgets:
+    recent_num: 5
+    categories_counter: false
+    tags_counter: false
+    social:
+      #facebook: username
+      #twitter: username
+      #instagram: username
+      #linkedin: username
+      #telegram: username
+      #github: KindaHangry
+      #gitlab: username
+      #bitbucket: username
+      email: connorbridges11@gmail.com
+      # custom:
+      #   - title: Youtube
+      #     url: 'https://www.youtube.com/channel/UCiSVPN5Uczx0kdYXe-MaU0g/featured'
+      #     icon: youtube.svg
+      #   - title: My Home Page
+      #     url: 'http://example.com'

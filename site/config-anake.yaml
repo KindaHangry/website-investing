@@ -1,0 +1,28 @@
+baseURL: https://investing-help.com/
+languageCode: en-us
+footnoteReturnLinkContents: ↩
+theme: ananke
+title: Connor's Investing Research
+copyright: 
+googleAnalytics: UA-199234456-1
+menus:
+  main:
+  - name: Homepage
+    url: "/"
+  - name: Posts
+    url: "/posts/"
+params:
+  AuthorName: Connor Bridges
+  GitHubUser: KindaHangry
+  SidebarRecentLimit: 25
+  permalinks:
+    posts: /:year/:month/:title/
+  custom_css:
+    - css/site.css
+  # favicon: favicon/favicon.ico
+  site_logo: /images/logo_3.png
+  recent_posts_number: 30
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

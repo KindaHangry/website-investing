@@ -3,6 +3,8 @@ title: "Top 5 Cryptocurrencies to buy for 2021"
 date: 2021-06-11T19:47:32-07:00
 advertise: true
 draft: false
+categories:
+  - "Crypto"
 ---
 
 

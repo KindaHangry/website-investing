@@ -3,6 +3,9 @@ title: "Top 5 Stock Trading Platforms 2021"
 date: 2021-06-08T19:47:32-07:00
 advertise: true
 draft: false
+categories:
+  - "Stocks"
+  - Exchange Recommendations
 ---
 
 
