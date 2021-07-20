@@ -3,6 +3,9 @@ title: "What is Aave (AAVE)?"
 date: 2021-06-25T12:47:32-07:00
 advertise: true
 draft: false
+authorbox: false
+categories:
+  - "Crypto"
 ---
 
 

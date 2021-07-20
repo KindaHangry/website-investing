@@ -3,6 +3,9 @@ title: "Top 5 Crypto Exchanges 2021"
 date: 2021-06-06T19:47:32-07:00
 advertise: true
 draft: false
+categories:
+  - "Crypto"
+  - Exchange Recommendations
 ---
 
 
@@ -21,13 +24,13 @@ Coinbase is the probably the most popular crypto currency exchange, at least her
 
 ## 3) eToro
 
-eToro is a very well rounded exchange, and a fantastic option for any type of cryptocurrency investor/trader. Their fees are competitive compared to many exchanges, they have a great selection of coins to choose from, and they also have stocks coming soon. Overall a great exchange, especially for newer investors that want to have a lot of options in a single platform. If you want to sign up, I have attatched a link to their main website.
+eToro is a very well rounded exchange, and a fantastic option for any type of cryptocurrency investor/trader. Their fees are competitive compared to many exchanges, they have a great selection of coins to choose from, and they also have stocks coming soon. Overall a great exchange, especially for newer investors that want to have a lot of options in a single platform. If you want to sign up, I have attached a link to their main website.
 
 [Sign up for eToro](https://www.tkqlhce.com/click-100428808-14080922)
 
 ## 4) Coinrule
 
-Coinrile is a relatively new and less known exchange, and is quickly gaining users with its huge increase in marketing. Coinrule is unlike most other platforms on this list, in the fact that it helps trade for you. This platform is for you if you want high returns, but don't neccesarily have the time to research every new coin. This way, you can have the best of both worlds. If you want to sign up for them, I have attatched a link that will bring you to their signup page.
+Coinrile is a relatively new and less known exchange, and is quickly gaining users with its huge increase in marketing. Coinrule is unlike most other platforms on this list, in the fact that it helps trade for you. This platform is for you if you want high returns, but don't necessarily have the time to research every new coin. This way, you can have the best of both worlds. If you want to sign up for them, I have attached a link that will bring you to their sign up page.
 
 [Sign up for Coinrule](https://www.jdoqocy.com/click-100428808-14320504)
 

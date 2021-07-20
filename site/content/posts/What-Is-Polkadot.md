@@ -3,6 +3,8 @@ title: "What is Polkadot (DOT)?"
 date: 2021-06-20T19:47:32-12:00
 advertise: true
 draft: false
+categories:
+  - "Crypto"
 ---
 
 
