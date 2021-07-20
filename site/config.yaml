@@ -19,8 +19,8 @@ Params:
   #schema: true
   #twitter_cards: true
   #readmore: false
-  authorbox: true
-  toc: true
+  authorbox: false
+  toc: false
   pager: true
   # post_meta:
   #   - author
@@ -36,7 +36,7 @@ Params:
   googleFontsLink: 'https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700'
   highlightColor: ''
   customCSS:
-    - css/custom.css
+    - css/custom-mainroad.css
   customJS:
     - js/custom.js
   style:
@@ -49,11 +49,11 @@ Params:
   logo:
     image: images/logo_3.png
     title: "Connor's Investing Research"
-    subtitle: Just another site
+    subtitle: Not Financial Advice
   sidebar:
     home: right
     list: right
-    single: false
+    single: true
     widgets:
       - search
       - recent

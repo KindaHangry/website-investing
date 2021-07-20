@@ -9,6 +9,8 @@ categories:
 ---
 
 
+
+
 ## 1) Webull
 
 Webull takes the cake in my opinion as a stock trading platform. It has 0 fees, after-hours trading, a pretty simple interface, and you can even trade a selection of cryptocurrencies there. They also have a great deal to new investors that includes up to 4 free stocks, that can be valued up to $1850. Overall, a great platform that I have never had a complaint with, and that's why it takes the number 1 spot on this list. 
