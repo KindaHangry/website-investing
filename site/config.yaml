@@ -36,9 +36,9 @@ Params:
   googleFontsLink: 'https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700'
   highlightColor: ''
   customCSS:
-    - css/custom-mainroad.css
+    - /css/custom-mainroad.css
   customJS:
-    - js/custom.js
+    - /js/custom.js
   style:
     vars:
       highlightColor: '#055817'
