@@ -82,3 +82,6 @@ Params:
       #     icon: youtube.svg
       #   - title: My Home Page
       #     url: 'http://example.com'
+  post_meta:
+    - categories
+    - date
