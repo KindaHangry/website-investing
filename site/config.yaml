@@ -58,6 +58,7 @@ Params:
       - search
       - recent
       - categories
+      - ads
       #- taglist
       #- social
       #- languages
