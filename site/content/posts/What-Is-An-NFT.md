@@ -3,6 +3,7 @@ title: "What is an NFT?"
 date: 2021-07-19T00:30:32-07:00
 advertise: true
 draft: false
+advertise: true
 categories:
   - "Crypto"
 ---

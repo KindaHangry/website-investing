@@ -2,6 +2,7 @@
 title: "How Do You Invest Under 18?"
 date: 2021-07-27T14:50:32-07:00
 draft: false
+advertise: true
 categories:
   - "Tutorials"
   - "Crypto"

@@ -3,6 +3,7 @@ title: "What is Chainlink (LINK)?"
 date: 2021-06-19T19:47:32-07:00
 advertise: true
 draft: false
+advertise: true
 categories:
   - "Crypto"
 ---

@@ -3,6 +3,7 @@ title: "What is Ethereum (ETH)?"
 date: 2021-07-01T17:47:32-07:00
 advertise: false
 draft: false
+advertise: true
 categories:
   - "Crypto"
 #featured_image: '/images/feature_image.png'
