@@ -1,6 +1,6 @@
 ---
 title: "How Do I Start Investing?"
-date: 2021-07-27T14:50:32-07:00
+date: 2021-07-31T14:50:32-07:00
 draft: false
 advertise: true
 categories:
