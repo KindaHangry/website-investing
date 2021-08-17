@@ -1,6 +1,6 @@
 ---
 title: "What is Crypto Gaming?"
-date: 2021-08-04T16:50:32-07:00
+date: 2021-08-09T16:50:32-07:00
 draft: false
 advertise: true
 categories:
