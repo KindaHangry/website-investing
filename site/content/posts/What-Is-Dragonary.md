@@ -1,6 +1,6 @@
 ---
 title: "What is Dragonary? (Crypto Game Review)"
-date: 2021-08-16T17:47:32-07:00
+date: 2021-08-21T20:17:32-07:00
 draft: false
 categories:
   - "Crypto"
