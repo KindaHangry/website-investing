@@ -5,6 +5,7 @@ draft: false
 advertise: true
 categories:
   - "Crypto"
+  - "Gaming"
 ---
 
 Cryptocurrency gaming is a newer niche in the crypto space, and can be a great way to make some money. Today, we’ll talk about what exactly crypto gaming is, how it works, and some good games to look into.

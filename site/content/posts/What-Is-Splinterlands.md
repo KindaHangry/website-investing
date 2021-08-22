@@ -4,6 +4,7 @@ date: 2021-08-16T17:47:32-07:00
 draft: false
 categories:
   - "Crypto"
+  - "Gaming"
 ---
 
 
