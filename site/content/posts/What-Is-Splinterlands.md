@@ -12,7 +12,7 @@ Splinterlands is a card strategy game similar to Hearthstone, but with Play-to-E
 
 ## What is Splinterlands?
 
-Splinterlands is a strategy game that involves using cards to defeat your opponents. You can play on desktop and mobile, making it widely accessible. There are currently ranked matches, seasons, and even tournaments, giving the player a variety of things to do.
+Splinterlands is a strategy game that involves using cards to defeat your opponents. You can play on desktop and mobile, making it widely accessible. There are currently ranked matches, seasons, and even tournaments, giving the player a variety of things to do. If you want to sign up, I've attached a link to their website where you can [sign up](https://splinterlands.com?ref=kindahangry) for free.
 
 
 ## Can You Earn Money?
